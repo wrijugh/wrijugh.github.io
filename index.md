@@ -41,7 +41,7 @@ Let's assume that we have the below sample JSON
 ```
 To get all the values we can write 
 ```employees``` then it will return all the values. If you want to view the values only from field ```name``` then you can use 
-```json
+```
 employee[*].name
 ```
 This would result in as 
@@ -54,7 +54,7 @@ This would result in as
 ]
 ```
 Now imagine you want to read the **jan** value from **sal** property then you would write
-```json
+```
 employee[1].sal.jan
 ```
 so on and so forth. 
