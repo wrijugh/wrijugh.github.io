@@ -1,5 +1,5 @@
 # Azure CLI filter the JSON Output with JMESPath
-Azure CLI retuns JSON output bydefault. To find the right information we use JMESPath to query the JSON string. Azure CLI Allows you to pass the value in ```--query``` parameter. 
+Azure CLI retuns JSON output by default. To find the right information we use JMESPath to query the JSON string. Azure CLI Allows you to pass the value in ```--query``` parameter. 
 
 Before we jump to the Azure CLI we can dive into the basics of JMESPath to find a bit more details.
 
