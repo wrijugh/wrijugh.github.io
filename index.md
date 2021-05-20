@@ -1,77 +1,27 @@
-# Azure CLI filter the JSON Output with JMESPath
-Azure CLI retuns JSON output by default. To find the right information we use JMESPath to query the JSON string. Azure CLI Allows you to pass the value in ```--query``` parameter. 
+# Wriju's GitHub Pages
 
-Before we jump to the Azure CLI we can dive into the basics of JMESPath to find a bit more details.
+## CKAD Preparation
 
-Let's assume that we have the below sample JSON
-```json
-{
-    "employees":
-    [
-        {
-            "name": "Wriju", 
-            "email": "wriju@contoso.com",
-            "city": "Bangalore"        
-        },
-        {
-            "name": "Wrishika", 
-            "sal":
-            {
-                "jan":"100",
-                "feb":"200"
-            }
-        },
-        {
-            "name": "Wrishika", 
-            "email": "wrishika@contoso.com",
-            "city": "Mysore",
-            "sal":
-            {
-                "jan":"100",
-                "feb":"200"
-            }
-        },
-        {
-            "name": "Writam", 
-            "email": "writam@contoso.com",
-            "city": "Siliguri"
-        }
-    ]
-}
-```
-To get all the values we can write 
-```employees``` then it will return all the values. If you want to view the values only from field ```name``` then you can use 
-```
-employee[*].name
-```
-This would result in as 
-```json
-[
-  "Wriju",
-  "Wrishika",
-  "Wrishika",
-  "Writam"
-]
-```
-Now imagine you want to read the **jan** value from **sal** property then you would write
-```
-employee[1].sal.jan
-```
-so on and so forth. 
+[https://wrijugh.github.io/ckad/](https://wrijugh.github.io/ckad/)
 
-In **Azure CLI** we can also use it filter the output result. If I want to get the **admin user name** of a VM that information is stored in 
-```json
-"osProfile": {
-      "adminPassword": null,
-      "adminUsername": "wriju",
-      "allowExtensionOperations": true,
-      "computerName": "wm-Ubuntu18",
-      ...
-```
-So we can use ```osProfile.adminUsername```
+## Python for Kids
 
-The final **Azure CLI** would look like,
+[https://wrijugh.github.io/python-for-kids/](https://wrijugh.github.io/python-for-kids/)
 
-```bash
-az vm show -g rg-vm -n wm-Ubuntu18 --query "osProfile.adminUsername"
-```
+## Tech Talks 
+
+[https://wrijugh.github.io/techtalks/](https://wrijugh.github.io/techtalks/)
+
+## Resources
+
+- Meetup Group - [meetingplace.io/groups/azureall](https://meetingplace.io/groups/azureall)
+- Youtube Channel - [youtube.com/c/TechTalksWriju](https://www.youtube.com/c/TechTalksWriju?sub_confirmation=1)
+- LinkedIn - [linkedin.com/in/wrijughosh/](https://www.linkedin.com/in/wrijughosh/)
+- Twitter - [@wrijugh](https://twitter.com/wrijugh)
+- Facebook Page - [www.facebook.com/groups/azureforall](https://www.facebook.com/groups/azureforall)
+- Blog - [dev.to/wrijugh](https://dev.to/wrijugh)
+- Blog - [wriju.wordpress.com](https://wriju.wordpress.com/)
+
+### Support or Contact
+
+For any feedback please raise an issue here or contact Twitter [@WrijuGh](https://twitter.com/wrijugh)
