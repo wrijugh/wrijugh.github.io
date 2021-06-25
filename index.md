@@ -4,7 +4,7 @@
 
 [https://wrijugh.github.io/ckad/](https://wrijugh.github.io/ckad/)
 
-## Web Designing (HTML, CSS, JS, Gihub) for young minds
+## Web Designing (HTML, CSS, JS, Github) for young minds
 
 [https://wrijugh.github.io/web-students/](https://wrijugh.github.io/web-students/)
 
