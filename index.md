@@ -4,6 +4,10 @@
 
 [https://wrijugh.github.io/ckad/](https://wrijugh.github.io/ckad/)
 
+## Web Designing (HTML, CSS, JS, Gihub) for young minds
+
+[https://wrijugh.github.io/web-students/](https://wrijugh.github.io/web-students/)
+
 ## Python for Kids
 
 [https://wrijugh.github.io/python-for-kids/](https://wrijugh.github.io/python-for-kids/)
