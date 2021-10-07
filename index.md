@@ -4,6 +4,14 @@
 
 [https://wrijugh.github.io/ckad/](https://wrijugh.github.io/ckad/)
 
+## Azure Kubernetes (AKS)
+
+[https://wrijugh.github.io/aks/](https://wrijugh.github.io/aks/)
+
+## Kubernetes Cluster setup in Virtual Machines
+
+[https://wrijugh.github.io/cka-setup-guide/](https://wrijugh.github.io/cka-setup-guide/)
+
 ## Web Designing (HTML, CSS, JS, Github) for young minds
 
 [https://wrijugh.github.io/web-students/](https://wrijugh.github.io/web-students/)
