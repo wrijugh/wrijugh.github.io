@@ -1,5 +1,6 @@
 
 # *Resume of* Wriju Ghosh
+---
 *Email: wriju_ghosh@hotmail.com*, *Phone*: 
 
 ## Summary
