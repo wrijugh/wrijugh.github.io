@@ -1,6 +1,6 @@
 
 # *Resume of* Wriju Ghosh
-*Email*: wriju_ghosh@hotmail.com, *Phone*: 
+*Email: wriju_ghosh@hotmail.com*, *Phone*: 
 
 ## Summary
 - A Professional Developer with 20+ years of experience, including 16.5 years at Microsoft in various roles including leading and managing team of technical people. Experienced working in North America, Europe, India, China, Singapore, Malaysia, Philipines & Australia. 
@@ -43,6 +43,7 @@ Contacts
 - Royal Dutch Shell, Royal Philips, Honeywell, Deloitte, Wipro, Infosys, TCS, HCL, Tech Mahindra etc.
 
 ## Projects and Responsibilities
+
 ### Microsoft – Cloud Solution Architect
 - Lead the effort to build the Cloud Center of Excellence and Azure Landing zone with Oil and Energy industry compliance guidelines.
 - Large application/infrastructure migration for 600 VMs from on-premises to Azure as part of the acquisition into the landing zone. 
@@ -52,6 +53,7 @@ Contacts
 - Responsible team member of a multi-million-dollar monthly revenue business focusing on Oil & Energy, Healthcare and Retail domain. 
 - Responsible for APAC chapter of European customers. 
 - Drive adoption and cloud practices across organizations. 
+
 ### Microsoft – Sr. Consultant (Application Development)
 - Developed Microservices based application using Service Fabric for Honeywell.
 - Developed Microservices API for Audit system for Deloitte.
@@ -59,18 +61,25 @@ Contacts
 - Modernize legacy applications to .NET for Tech Mahindra. 
 - Build cloud automation for Royal Dutch Sell.
 - Build IoT solution for Singapore Transportation.
+
 ### Microsoft – Lead Partner Tech Consultant
 - Led 6-7 Technical Consulting providing advisory services to Microsoft Partners. 
 - Responsible for customer satisfaction and escalation. 
 - Readiness drive and technology adoption. 
 - Recognized as leader for providing KPI. 
+
 ### Microsoft – Sr Partner Tech Consultant
 - Worked with Microsoft partners help build .NET and Azure products. 
 - Responsible for early adopters and ISV vendors.
+
 ### Web Spiders – Web Application Developer 
 - .NET Web-based Products for Survey, E-Commerce & Gaming.
+
 ### Web OPAC – Tech Manager in Product Development 
-- Worked for Ministry of HRD, Govt of India to digitize National Library of India, Khuda Bakhsh Oriental Public Library, Raja Rammohan Library, National Bibliography, Aligarh Muslim Library. Build/led Library automation product, sold across 50 state and central libraries of India. First-ever Unicode implementation back in 2002. Managed 40 people team of National Library Automation.
+- Worked for Ministry of HRD, Govt of India to digitize National Library of India, Khuda Bakhsh Oriental Public Library, Raja Rammohan Library, National Bibliography, Aligarh Muslim Library. 
+- Build/led Library automation product, sold across 50 state and central libraries of India. 
+- First-ever Unicode implementation back in 2002. Managed 40 people team of National Library Automation.
+- Responsible for sales and development of key product.
 
 ---
 *Updated: Dec 2021*
