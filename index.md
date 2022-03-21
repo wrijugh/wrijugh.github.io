@@ -1,5 +1,9 @@
 # Wriju's GitHub Pages
 
+## Cloud Solution Architect 
+**Career Series**
+[https://wrijugh.github.io/cka.md](https://wrijugh.github.io/cka.ms)
+
 ## CKAD Preparation
 
 [https://wrijugh.github.io/ckad/](https://wrijugh.github.io/ckad/)
