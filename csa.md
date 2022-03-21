@@ -40,6 +40,30 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JsXM6dCoCmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
+
+## 04 - Learn and Unlearn
+
+[https://www.youtube.com/embed/JqJsFmemByA](https://www.youtube.com/embed/JqJsFmemByA)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JqJsFmemByA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## 05 - Proof of Concept
+
+[https://www.youtube.com/embed/ej0QOQFgDPU](https://www.youtube.com/embed/ej0QOQFgDPU)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ej0QOQFgDPU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## 06 -  Is the programming skill required?
+
+[https://www.youtube.com/embed/iWOpeWIVulo](https://www.youtube.com/embed/iWOpeWIVulo)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iWOpeWIVulo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
+
 <!-- 
 ## 0x - 
 
