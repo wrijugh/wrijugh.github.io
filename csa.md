@@ -1,7 +1,7 @@
 [Home](index.md)
 
 # Cloud Solution Architect 
-**Career Series **
+**Career Series**
 
 [Playlist](https://www.youtube.com/playlist?list=PLPIVZsyfpXt8UyEq9EV2F5EksIICZemDR)
 
