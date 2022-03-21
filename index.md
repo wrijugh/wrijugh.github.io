@@ -2,7 +2,7 @@
 
 ## Cloud Solution Architect 
 **Career Series**
-[https://wrijugh.github.io/cka.md](https://wrijugh.github.io/cka.ms)
+[https://wrijugh.github.io/cka.md](https://wrijugh.github.io/cka.md)
 
 ## CKAD Preparation
 
