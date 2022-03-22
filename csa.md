@@ -33,7 +33,7 @@
 
 ---
 
-## 03 - Build your network
+## 03 - Build your people network
 
 [https://www.youtube.com/embed/JsXM6dCoCmk](https://www.youtube.com/embed/JsXM6dCoCmk)
 
@@ -49,11 +49,11 @@
 
 ---
 
-## 05 - Proof of Concept
+## 05 - Importance of the Proof of Concept
 
-[https://www.youtube.com/embed/ej0QOQFgDPU](https://www.youtube.com/embed/ej0QOQFgDPU)
+[https://www.youtube.com/embed/0pAeXc4NYlI](https://www.youtube.com/embed/0pAeXc4NYlI)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ej0QOQFgDPU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pAeXc4NYlI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
