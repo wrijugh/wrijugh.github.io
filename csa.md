@@ -80,8 +80,6 @@ https://youtu.be/zoc18TgXd58
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zoc18TgXd58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
-For more please subscribe 
-https://www.youtube.com/c/TechTalksWriju?sub_confirmation=1
 
 ---
 
@@ -92,9 +90,6 @@ https://youtu.be/T_0_0HdiozM
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T_0_0HdiozM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
-For more please subscribe 
-https://www.youtube.com/c/TechTalksWriju?sub_confirmation=1
-
 ---
 
 ## 10 – Cloud Solution Architect – Single and Multi-cloud
@@ -104,8 +99,10 @@ Whether you work for single or multi-cloud it is important to focus on business 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mmeqMMkRMAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
-For more please subscribe 
-https://www.youtube.com/c/TechTalksWriju?sub_confirmation=1
+
+---
+
+For more please [subscribe the channel](https://www.youtube.com/c/TechTalksWriju?sub_confirmation=1) 
 
 
 <!-- 
