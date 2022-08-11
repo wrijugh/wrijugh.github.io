@@ -73,30 +73,6 @@
 
 ---
 
-## 06 - Cloud Solution Architect – Is knowing programming is mandatory
-A lot of us come from pure infra background. Having programming language helps but is it a necessity? 
-
-https://youtu.be/iWOpeWIVulo
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iWOpeWIVulo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-For more please subscribe 
-https://www.youtube.com/c/TechTalksWriju?sub_confirmation=1
-
----
-
-## 07 -Cloud Solution Architect - Power of Collaboration
-There is hardly any large-scale work which can be delivered by a single person. Hence collaboration is a must. Whether you like it or not you need to collaborate. 
-
-https://youtu.be/QK_N-wYsOFw
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QK_N-wYsOFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-For more please subscribe 
-https://www.youtube.com/c/TechTalksWriju?sub_confirmation=1
-
----
-
 ## 08 -Cloud Solution Architect – Team Structure
 How a typical team structure for a Cloud Solution Architect would look like. With whom you will be working on a day-to-day activity? 
 
