@@ -71,10 +71,71 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QK_N-wYsOFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
+
+## 06 - Cloud Solution Architect – Is knowing programming is mandatory
+A lot of us come from pure infra background. Having programming language helps but is it a necessity? 
+
+https://youtu.be/iWOpeWIVulo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iWOpeWIVulo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
+For more please subscribe 
+https://www.youtube.com/c/TechTalksWriju?sub_confirmation=1
+
+---
+
+## 07 -Cloud Solution Architect - Power of Collaboration
+There is hardly any large-scale work which can be delivered by a single person. Hence collaboration is a must. Whether you like it or not you need to collaborate. 
+
+https://youtu.be/QK_N-wYsOFw
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QK_N-wYsOFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
+For more please subscribe 
+https://www.youtube.com/c/TechTalksWriju?sub_confirmation=1
+
+---
+
+## 08 -Cloud Solution Architect – Team Structure
+How a typical team structure for a Cloud Solution Architect would look like. With whom you will be working on a day-to-day activity? 
+
+https://youtu.be/zoc18TgXd58
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zoc18TgXd58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
+For more please subscribe 
+https://www.youtube.com/c/TechTalksWriju?sub_confirmation=1
+
+---
+
+## 09 – Cloud Solution Architect – Technical Leadership
+As a Cloud Solution Architect, one would show the quality of a Technical Leadership. This could be by driving and leading technical conversation or by guiding team to understand the technical choices. A leader leading the team by example by demonstrating enthusiasm and community. 
+
+https://youtu.be/T_0_0HdiozM
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T_0_0HdiozM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
+For more please subscribe 
+https://www.youtube.com/c/TechTalksWriju?sub_confirmation=1
+
+---
+
+## 10 – Cloud Solution Architect – Single and Multi-cloud
+Whether you work for single or multi-cloud it is important to focus on business value. With single cloud it is important we focus on native fully managed services and utilize all the native tooling for cyber security, monitoring etc. For multi-cloud build the solution in such a way that it can target any cloud and on-premises. Which essentially means it has to be cloud native in nature. 
+
+[https://youtu.be/mmeqMMkRMAw](https://youtu.be/mmeqMMkRMAw)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mmeqMMkRMAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
+For more please subscribe 
+https://www.youtube.com/c/TechTalksWriju?sub_confirmation=1
+
+
 <!-- 
 ## 0x - 
 
-[https://youtu.be//YOUID](https://youtu.be/YOUID)
+[https://youtu.be/YOUID](https://youtu.be/YOUID)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YOUID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 -->
