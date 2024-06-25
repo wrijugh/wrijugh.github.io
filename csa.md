@@ -99,8 +99,74 @@ Whether you work for single or multi-cloud it is important to focus on business 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mmeqMMkRMAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
+---
+
+## 11 – Cloud Solution Architect – Security
+ 
+
+[https://youtu.be/tTbU4GYtdMU](https://youtu.be/tTbU4GYtdMU)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tTbU4GYtdMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 ---
+
+## 12 – Cloud Solution Architect – Technology Focus
+
+[https://youtu.be/KfonrXfi8Tw](https://youtu.be/KfonrXfi8Tw)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EreYXaQMMUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+---
+
+## 13 – Cloud Solution Architect – Technology Overdose
+
+[https://youtu.be/EreYXaQMMUE](https://youtu.be/EreYXaQMMUE)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EreYXaQMMUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+---
+
+## 14 – Cloud Solution Architect – Cost Optimization
+
+[https://youtu.be/2KCLe_vKWFA](https://youtu.be/2KCLe_vKWFA)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2KCLe_vKWFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+---
+
+## 15 – Cloud Solution Architect – Enhance your skills
+
+[https://youtu.be/fDyj4tekl8g](https://youtu.be/fDyj4tekl8g)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fDyj4tekl8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+---
+
+## 16 – Cloud Solution Architect – Technical support
+
+[https://youtu.be/rjC_ydo5ZM4](https://youtu.be/rjC_ydo5ZM4)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rjC_ydo5ZM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+---
+
+## 17 – Cloud Solution Architect – Native Cloud
+
+[https://youtu.be/8HKTC6tju_I](https://youtu.be/8HKTC6tju_I)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8HKTC6tju_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+---
+
+## 18 – Cloud Solution Architect – Cloud Landing Zone
+
+[https://youtu.be/mtAGdbo_1B8](https://youtu.be/mtAGdbo_1B8)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mtAGdbo_1B8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+---
+
+## 19 – Cloud Solution Architect – Ask the right question
+
+[https://youtu.be/gFeUhk0pTCk](https://youtu.be/gFeUhk0pTCk)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gFeUhk0pTCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+---
+
+
 
 For more please [subscribe the channel](https://www.youtube.com/c/TechTalksWriju?sub_confirmation=1) 
 
