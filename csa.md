@@ -114,7 +114,7 @@ Whether you work for single or multi-cloud it is important to focus on business 
 
 [https://youtu.be/KfonrXfi8Tw](https://youtu.be/KfonrXfi8Tw)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EreYXaQMMUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KfonrXfi8Tw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 ---
 
 ## 13 – Cloud Solution Architect – Technology Overdose
