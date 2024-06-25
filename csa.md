@@ -17,7 +17,7 @@
 
 ---
 
-## 01 - What is expected?
+## 01 - Cloud Solution Architect – What is expected?
 
 [https://youtu.be/qc7-O0Q7DrM](https://youtu.be/qc7-O0Q7DrM)
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 02 - Technology and Business
+## 02 - Cloud Solution Architect – Technology and Business
 
 [https://youtu.be/gHIWzO7a0Pk](https://youtu.be/gHIWzO7a0Pk)
 
@@ -33,7 +33,7 @@
 
 ---
 
-## 03 - Build your people network
+## 03 - Cloud Solution Architect – Build your people network
 
 [https://youtu.be/JsXM6dCoCmk](https://youtu.be/JsXM6dCoCmk)
 
@@ -41,7 +41,7 @@
 
 ---
 
-## 04 - Learn and Unlearn
+## 04 - Cloud Solution Architect – Learn and Unlearn
 
 [https://youtu.be/KKBdqzPbXSY](https://youtu.be/KKBdqzPbXSY)
 
@@ -49,7 +49,7 @@
 
 ---
 
-## 05 - Importance of the Proof of Concept
+## 05 - Cloud Solution Architect – Importance of the Proof of Concept
 
 [https://youtu.be/0pAeXc4NYlI](https://youtu.be/0pAeXc4NYlI)
 
@@ -57,7 +57,7 @@
 
 ---
 
-## 06 -  Is the programming skill required?
+## 06 - Cloud Solution Architect – Is the programming skill required?
 
 [https://youtu.be/iWOpeWIVulo](https://youtu.be/iWOpeWIVulo)
 
@@ -65,7 +65,7 @@
 
 ---
 
-## 07 -  Power of Collaboration
+## 07 - Cloud Solution Architect – Power of Collaboration
 
 [https://youtu.be/QK_N-wYsOFw](https://youtu.be/QK_N-wYsOFw)
 
@@ -73,7 +73,7 @@
 
 ---
 
-## 08 -Cloud Solution Architect – Team Structure
+## 08 - Cloud Solution Architect – Team Structure
 How a typical team structure for a Cloud Solution Architect would look like. With whom you will be working on a day-to-day activity? 
 
 https://youtu.be/zoc18TgXd58
@@ -102,7 +102,7 @@ Whether you work for single or multi-cloud it is important to focus on business 
 ---
 
 ## 11 – Cloud Solution Architect – Security
- 
+
 
 [https://youtu.be/tTbU4GYtdMU](https://youtu.be/tTbU4GYtdMU)
 
